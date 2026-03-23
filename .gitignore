@@ -1,4 +1,6 @@
 *.pt
 __pycache__/
-data/
+data/*.mp4
+data/*.zip
+data/*.csv
 .DS_Store
